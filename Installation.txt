@@ -1,0 +1,8 @@
+Instalation
+
+--JAVA
+  https://www.oracle.com/java/technologies/javase-jre8-downloads.html
+--PDI CE
+  https://sourceforge.net/projects/pentaho/files/Data%20Integration/
+-PDI CE 7.1
+  https://sourceforge.net/projects/pentaho/files/Data%20Integration/7.1/
